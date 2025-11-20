@@ -1,0 +1,11 @@
+# Ignore Data
+data/
+models/
+__pycache__/
+
+# Ignore Mac System files
+.DS_Store
+
+# Ignore Environment
+heart-disease-env/
+.vscode/
